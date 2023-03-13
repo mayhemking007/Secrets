@@ -1,0 +1,109 @@
+body {
+  /* background-color: #E8ECEF; */
+  /* background-color: #E4E9FD;
+  background-image: -webkit-linear-gradient(66deg, #B983FF 50%, #DADDFC 50%);
+  min-height: 713px;
+  background-repeat:no-repeat ; */
+  background: rgb(185,131,255);
+background: linear-gradient(90deg, rgba(185,131,255,1) 2%, rgba(202,184,255,0.9419117988992471) 69%, rgba(218,221,252,1) 100%);
+  /* height: 100%; */
+  font-family: 'Montserrat', sans-serif;
+
+  padding: 3%;
+ 
+}
+h1{
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-family: 'Ubuntu', sans-serif;
+  
+}
+.submitH2{
+  margin-bottom: 50px;
+}
+.secretPageH2{
+  margin-bottom: 50px;
+}
+
+.centered {
+    padding-top: 100px;
+    text-align: center;
+}
+.centered2{
+  padding-top: 40px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: rgb(255, 255, 255);
+  background-color: #EDD2F3;
+   border-radius: 20px;
+  
+}
+
+.container.mt-5{
+  border-radius: 10px 10px 10px 10px;
+  background: #fff;
+  width: 60%;
+  max-width: 450px;
+  text-align: center;
+  position: relative;
+  padding: 10px 5px;
+  box-shadow: 0 30px 60px 0;
+}
+.lead{
+  font-size: 2.25rem;
+}
+.button{
+  background-color : #B983FF;
+  color : white;
+  margin-left : 20px;
+
+}
+.Gbutton{
+     width: 100%;
+}
+i{
+  margin-right: 5px;
+}
+a{
+  font-size: 1.2rem;
+}
+.secret-heading{
+   margin-bottom: 3rem;
+}
+
+
+/* navbar */
+nav{
+  background: rgb(185,131,255);
+  background: linear-gradient(90deg, rgba(185,131,255,1) 2%, rgba(202,184,255,0.9419117988992471) 69%, rgba(218,221,252,1) 100%);
+  margin-bottom:4rem;
+}
+.navbar-brand{
+  font-size: 4rem;
+  font-family: 'Sacramento', cursive;
+ 
+}
+.nav-link{
+  margin-right: 2.8rem;
+  font-size: 20px;
+}
+.nav-div{
+  position: absolute;
+  right:100px
+}
+.nav-brand{
+  margin-left: 4rem;
+}
+
+.input-submit{
+  height : 50px;
+  width: 80%;
+  border-radius:5px ;
+  border: none;
+  text-align: center;
+}
